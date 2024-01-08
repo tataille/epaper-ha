@@ -11,8 +11,8 @@ wifi:
   password: !secret wifi_password
 
   ap:
-    ssid: "Epaper-Esp32 Fallback Hotspot"
-    password: "xUrnzdTgzTjk"
+    ssid: !secret ap_ssid
+    password: !secret ap_password
 
 captive_portal:
 
