@@ -1,2 +1,2 @@
-# epaper-ha
-Another epaper Dashbaord based on HA and esphome
+pip3 install "pillow==9.3.0" 
+
